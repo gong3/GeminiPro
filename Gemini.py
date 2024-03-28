@@ -26,7 +26,7 @@ gemini_pro, gemini_vision = st.tabs(["Gemini Pro", "Gemini Pro Vision"])
 
 def main():
     with gemini_pro:
-        st.header("Interact with Gemini Pro")
+        st.header("Interact with Gemini Pro ว่าซ่านนน")
         st.write("")
 
         prompt = st.text_input("prompt please...", placeholder="Prompt", label_visibility="visible")
